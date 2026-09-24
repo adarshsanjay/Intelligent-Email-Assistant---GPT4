@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Generated output
+outputs/generated_reply.txt
+
+# IDE
+.vscode/
+
+# Python cache
+.pytest_cache/
